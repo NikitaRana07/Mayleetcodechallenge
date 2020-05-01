@@ -1,3 +1,3 @@
 # Mayleetcodechallenge
-##May 1
+## May 1
 * First Bad Version : Solution using binary Search
