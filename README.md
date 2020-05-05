@@ -5,3 +5,4 @@
 |**May 2** | Jewels and Stones | log(n) runtime, O(1) memory solution |
 |**May 3** | Ransom Note | log(n) runtime, O(n) memory solution (hash map) |
 |**May 4** | Number Complement | Bitwise airthmetic, O(n) |
+|**May 5** | First Unique Character in a String | HashMaps, O(n) |
