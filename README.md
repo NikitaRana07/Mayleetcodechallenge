@@ -6,3 +6,4 @@
 |**May 3** | Ransom Note | log(n) runtime, O(n) memory solution (hash map) |
 |**May 4** | Number Complement | Bitwise airthmetic, O(n) |
 |**May 5** | First Unique Character in a String | HashMaps, O(n) |
+|**May 6** | Majority Elements | Boyer-Moore Voting Algorithm, O(n) |
