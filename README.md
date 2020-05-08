@@ -7,3 +7,4 @@
 |**May 4** | Number Complement | Bitwise airthmetic, O(n) |
 |**May 5** | First Unique Character in a String | HashMaps, O(n) |
 |**May 6** | Majority Elements | Boyer-Moore Voting Algorithm, O(n) |
+|**May 7** | Cousins in Binary Tree | DFS Algorithm, O(n) |
