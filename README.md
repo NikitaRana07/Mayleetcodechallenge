@@ -9,4 +9,6 @@
 |**May 6** | Majority Elements | Boyer-Moore Voting Algorithm, O(n) |
 |**May 7** | Cousins in Binary Tree | DFS Algorithm, O(n) |
 |**May 8** | Check If It Is a Straight Line | O(n) runtime, O(1) space |
+|**May 9** | Valid Perfect Square | O(sqrt(n)) runtime |
+
 
