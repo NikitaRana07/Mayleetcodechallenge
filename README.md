@@ -10,11 +10,3 @@
 |**May 7** | Cousins in Binary Tree | DFS Algorithm, O(n) |
 |**May 8** | Check If It Is a Straight Line | O(n) runtime, O(1) space |
 
-| **Date** | **Subject** | **Time** |
-|---|---|---|
-| **14 May** | WMT | 4:00-5:40 PM |
-| **16 May** | CD | 8:00-9:40 AM |
-| **18 May** | NP | 8:00-9:40 AM |
-| **20 May** | CC | 8:00-9:40 AM |
-| **21 May** | AI | 12:00-1:40 PM |
-| **22 May** | EE | 12:00-1:40 PM |
