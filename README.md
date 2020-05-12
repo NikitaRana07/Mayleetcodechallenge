@@ -12,4 +12,4 @@
 |**May 9** | Valid Perfect Square | O(sqrt(n)) runtime |
 |**May 10** | Town Judge | O(n) runtime, O(n) space |
 |**May 11** | Flood Fill | O(nxm) Recurssion |
-
+|**May 12** | Single Element in Sorted Array | O(n) runtime, O(1) space|
