@@ -16,3 +16,4 @@
 |**May 13** | Remove K Digits | O(n) runtime, O(n) space (stack)|
 |**May 14** | Implement Trie | Hash Map implementation|
 |**May 16** | Odd Even LL | O(n) runtime, O(1) space|
+|**May 16** | Find All Anagrams in a string | O(n) runtime, O(1) space|
