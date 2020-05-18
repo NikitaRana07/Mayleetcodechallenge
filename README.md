@@ -15,5 +15,7 @@
 |**May 12** | Single Element in Sorted Array | O(n) runtime, O(1) space|
 |**May 13** | Remove K Digits | O(n) runtime, O(n) space (stack)|
 |**May 14** | Implement Trie | Hash Map implementation|
+|**May 15** | Maximum Sum Circular Subarray | Min Kadanes implementation o(n) runtime, O(1) space|
 |**May 16** | Odd Even LL | O(n) runtime, O(1) space|
-|**May 16** | Find All Anagrams in a string | O(n) runtime, O(1) space|
+|**May 17** | Find All Anagrams in a string | O(n) runtime, O(1) space|
+|**May 18** | Permutation in a string | O(n) runtime, O(1) space using two vector maps of size 26|
